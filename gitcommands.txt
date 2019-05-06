@@ -1,0 +1,14 @@
+git init
+git add .
+git status
+git commit -m "new message"
+git remote add origin https://github....
+git -v
+git push 
+
+
+
+pranavkumarr
+prnavK1@
+
+
